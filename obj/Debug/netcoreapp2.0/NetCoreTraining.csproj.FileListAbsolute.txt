@@ -1,0 +1,10 @@
+/Users/Nasuf/Desktop/NetCoreTraining/bin/Debug/netcoreapp2.0/NetCoreTraining.deps.json
+/Users/Nasuf/Desktop/NetCoreTraining/bin/Debug/netcoreapp2.0/NetCoreTraining.runtimeconfig.json
+/Users/Nasuf/Desktop/NetCoreTraining/bin/Debug/netcoreapp2.0/NetCoreTraining.runtimeconfig.dev.json
+/Users/Nasuf/Desktop/NetCoreTraining/bin/Debug/netcoreapp2.0/NetCoreTraining.dll
+/Users/Nasuf/Desktop/NetCoreTraining/bin/Debug/netcoreapp2.0/NetCoreTraining.pdb
+/Users/Nasuf/Desktop/NetCoreTraining/obj/Debug/netcoreapp2.0/NetCoreTraining.csproj.CoreCompileInputs.cache
+/Users/Nasuf/Desktop/NetCoreTraining/obj/Debug/netcoreapp2.0/NetCoreTraining.AssemblyInfoInputs.cache
+/Users/Nasuf/Desktop/NetCoreTraining/obj/Debug/netcoreapp2.0/NetCoreTraining.AssemblyInfo.cs
+/Users/Nasuf/Desktop/NetCoreTraining/obj/Debug/netcoreapp2.0/NetCoreTraining.dll
+/Users/Nasuf/Desktop/NetCoreTraining/obj/Debug/netcoreapp2.0/NetCoreTraining.pdb
